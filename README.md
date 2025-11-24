@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hey, I'm Vilnis
 
-<!--
-**VilnisGrinbergs2000/VilnisGrinbergs2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer focused on building fast, clean, workspace-driven SaaS systems.  
+I work with **Laravel + React (Inertia)** and design **modern, minimal, developer-oriented UIs**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Stack I Work With
+
+### **Backend**
+- Laravel 12 / PHP 8.4  
+- Multi-tenant architecture  
+- Modular app structure  
+- CLI tooling, service containers  
+- MariaDB performance tuning  
+
+### **Frontend**
+- React (Inertia.js)  
+- TailwindCSS  
+- ShadCN UI
+
+### **Infrastructure**
+- Redis  
+- Nginx  
+- Virtualization & provisioning  
+- Clean CI workflows  
+
+---
+
+## 🔧 What I Build
+- Documentation systems  
+- Monitoring tools  
+- Analytics dashboards  
+- Automation pipelines  
+- Internal libraries & UI kits  
+
+I prioritize:
+- Clean code  
+- Consistent design language  
+- Developer-first ergonomics  
+- Shipping fast without sacrificing quality  
+
+---
+
+## 📦 Highlights
+- Multi-tenant workspace logic  
+- Ticketing & support systems  
+- Modular React dashboards  
+- Internal Laravel packages  
+- Command-driven tooling  
+- API integrations  
+- Live UI with Inertia  
+
+---
+
+## ⚡ Current Focus
+- Expanding a unified dev platform  
+- Refining UI/UX consistency  
+- Building reusable internal components  
+- Reducing complexity across modules  
+
+---
+
+## 💬 Contact
+**Discord:** jewbacca69  
+**GitHub:** @VilnisGrinbergs2000  
+
+---
+
+> *“Simplicity is not a feature — it’s a requirement.”*
