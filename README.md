@@ -53,18 +53,6 @@ I prioritize:
 
 ---
 
-## ⚡ Current Focus
-- Expanding a unified dev platform  
-- Refining UI/UX consistency  
-- Building reusable internal components  
-- Reducing complexity across modules  
-
----
-
 ## 💬 Contact
 **Discord:** jewbacca69  
 **GitHub:** @VilnisGrinbergs2000  
-
----
-
-> *“Simplicity is not a feature — it’s a requirement.”*
