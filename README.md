@@ -1,58 +1,32 @@
-# 👋 Hey, I'm Vilnis
+# Hey, I'm Vilnis 👋
 
-Full-stack developer focused on building fast, clean, workspace-driven SaaS systems.  
-I work with **Laravel + React (Inertia)** and design **modern, minimal, developer-oriented UIs**.
+I'm a full-stack developer from Latvia. I mainly work with **PHP, Laravel, React, TypeScript, and Go**, and I enjoy building SaaS products, developer tools, and infrastructure.
 
----
+## Currently building
 
-## 🛠 Stack I Work With
+🚀 **[Synetro](https://synetro.eu)**
+A modern website hosting platform for developers and hosting providers.
 
-### **Backend**
-- Laravel 12 / PHP 8.4  
-- Multi-tenant architecture  
-- Modular app structure  
-- CLI tooling, service containers  
-- MariaDB performance tuning  
+I work on the platform, backend, infrastructure, and frontend, so I tend to jump between pretty much everything.
 
-### **Frontend**
-- React (Inertia.js)  
-- TailwindCSS  
-- ShadCN UI
+## What I work with
 
-### **Infrastructure**
-- Redis  
-- Nginx  
-- Virtualization & provisioning  
-- Clean CI workflows  
+**Backend:** PHP, Laravel, Go, REST APIs
+**Frontend:** React, TypeScript, Inertia.js, Tailwind CSS
+**Infrastructure:** Docker, Linux, Nginx, Traefik, Redis, PostgreSQL, MariaDB
 
----
+## Things I like building
 
-## 🔧 What I Build
-- Documentation systems  
-- Monitoring tools  
-- Analytics dashboards  
-- Automation pipelines  
-- Internal libraries & UI kits  
+* SaaS platforms
+* Hosting infrastructure
+* Developer tools
+* APIs and integrations
+* Automation
+* Clean, simple UIs
 
-I prioritize:
-- Clean code  
-- Consistent design language  
-- Developer-first ergonomics  
-- Shipping fast without sacrificing quality  
+I like keeping things practical, shipping often, and making software that is actually useful.
 
----
+### Find me
 
-## 📦 Highlights
-- Multi-tenant workspace logic  
-- Ticketing & support systems  
-- Modular React dashboards  
-- Internal Laravel packages  
-- Command-driven tooling  
-- API integrations  
-- Live UI with Inertia  
-
----
-
-## 💬 Contact
-**Discord:** jewbacca69  
-**GitHub:** @VilnisGrinbergs2000  
+**GitHub:** [@VilnisGrinbergs2000](https://github.com/VilnisGrinbergs2000)
+**Discord:** `jewbacca69`
