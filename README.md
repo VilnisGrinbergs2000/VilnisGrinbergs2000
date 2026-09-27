@@ -7,8 +7,6 @@ I'm a full-stack developer from Latvia. I mainly work with **PHP, Laravel, React
 🚀 **[PickleScript](https://github.com/pickle-foundation/picklescript)**  
 A modern compiled programming language focused on simplicity, performance, safety, and developer experience.
 
-I work on the platform, backend, infrastructure, and frontend, so I tend to jump between pretty much everything.
-
 ## Tech
 
 **Languages & Backend**
