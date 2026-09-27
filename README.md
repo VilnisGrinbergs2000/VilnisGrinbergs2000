@@ -13,7 +13,7 @@ I work on the platform, backend, infrastructure, and frontend, so I tend to jump
 
 **Languages & Backend**
 
-![Languages & Backend](https://go-skill-icons.vercel.app/api/icons?i=c,php,laravel,go,composer,phpstan)
+![Languages & Backend](https://go-skill-icons.vercel.app/api/icons?i=c,php,laravel,go,rust,composer,phpstan)
 
 **Frontend**
 
